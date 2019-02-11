@@ -10,6 +10,8 @@ Made my best effort to please uncle bob with clean code
 
 UnitTests were done using Xunit 
 
+PLEASE MAKE SURE TO SET SERVICES AS THE STARTUP PROJECT. 
+
 Task (01)
 Primary URL : 
 
